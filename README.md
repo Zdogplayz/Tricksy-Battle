@@ -1,2 +1,2 @@
 # Tricksy-Battle
-Tricksy Battle code-based card game for INST126
+Tricksy Battle code-based card game. Check newest repo
